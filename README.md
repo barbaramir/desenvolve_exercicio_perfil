@@ -1,4 +1,4 @@
-<h1 align="center"> Página de Apresentação - Bárbara Mirelli </h1>
+<h1 align="center"> Página de Apresentação e Contato</h1>
 
 ## :pencil: Descrição do Projeto
 <p>Página de apresentação e contato criada a partir do desafio proposto pelo mentor do Desenvolve - João Louzada</p>
