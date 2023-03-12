@@ -1,7 +1,7 @@
 <h1 align="center"> Página de Apresentação e Contato</h1>
 
 ## :pencil: Descrição do Projeto
-<p>Página de apresentação e contato criada a partir do desafio proposto pelo mentor do Desenvolve - João Louzada</p>
+<p>Página de apresentação e contato criada a partir do desafio proposto pelo mentor da trilha Fullstack do Programa Desenvolve Boticário 2023 - João Louzada</p>
 
 ## :pushpin: Status do Projeto
 <p>Projeto em Andamento :construction:</p>
